@@ -36,12 +36,12 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Backlog]: <https://trello.com/b/DYtCtcJn/mythe>
+   [Logboek]: <https://docs.google.com/spreadsheets/d/1j5_-He-nGVkk430l2fuwozJAw9vJH3pCHlNGn35C4I4/edit?usp=sharing>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://teams.microsoft.com/_#/files/Team%2010?threadId=19%3Add6f9fa16070485aab91ba70d8a320ce%40thread.tacv2&ctx=channel&context=Team%252010&rootfolder=%252Fteams%252FMytheGDGA1920-Team10%252FGedeelde%2520documenten%252FTeam%252010>
    [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
