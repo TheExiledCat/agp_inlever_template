@@ -1,12 +1,12 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## QuetzalCoatl
+Project team 10 
 
-Platform:
-[jullie platfom]
+Platform: PC
+
 
 ### Korte omschrijving van de game
 ...
-
+3d dungeon adventure puzzle game
 ---
 #### Producten Werkproces 1
 | Product  | Link |
