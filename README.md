@@ -25,7 +25,7 @@ Platform: PC
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 | Opnames standups (Teams opnames)                          | [Folder op teams]
 |<img width=500/>|<img width=300/>|
-   
+   <!--
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
@@ -34,6 +34,7 @@ Platform: PC
 | Link naar online speelbaar prototype  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
 | Asset planning (pdf)                  | [AssetPlanning]
+-->
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/DYtCtcJn/mythe>
