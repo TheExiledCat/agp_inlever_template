@@ -4,9 +4,9 @@ Project team 10
 Platform: PC
 
 
-### Korte omschrijving van de game
+### 3d dungeon adventure puzzle game
 ...
-3d dungeon adventure puzzle game
+
 ---
 #### Producten Werkproces 1
 | Product  | Link |
